@@ -2,4 +2,4 @@
 
 Creating a basic html website with the knowledge learned so far.
 
-Live site at: 
+Live site at: https://erikngigi.github.io/odin-recipes/ 
